@@ -24,9 +24,9 @@ a {
   background-color: #ffc677;
   color: #000000;
   border: 2px solid #000000;
-  padding: 10px 24px;
+  padding: 0px 50px 0 50px;
   border-radius: 24px;
- margin: 5px 0px 0px 100px;
+ margin: 5px 50px 0px 50px;
   cursor: pointer;
   width: 50%;
   display: block;
