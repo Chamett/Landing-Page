@@ -1,20 +1,29 @@
 h1{
   text-align: center;
+  font-family: "edu au vic wa nt hand", "sans-serif","arial", "arial black";
 }
 p{
   text-align: center;
+  font-family: "sans-serif","arial", "arial black";
+ 
 }
 img{
-  width: 100%;
-  hight: 100%;
- padding: 10px 10px 10px 10px;
-}
+  display: block;
+  margin: 0 100px 0 100px;
+  width: 50%;
+  height: 50%;
+  border: 5px solid #000000;
+  border-radius: 10px;
+  
+  
+ }
 a {
+  font-family: "edu au vic wa nt hand", "sans-serif","arial", "arial black";
   text-decoration: none;
   text-align: center;
-  background-color: #ffecd5;
+  background-color: #ffc677;
   color: #000000;
-  border: 2px solid #919191;
+  border: 2px solid #000000;
   padding: 10px 24px;
   border-radius: 24px;
  margin: 5px 0px 0px 100px;
