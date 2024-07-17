@@ -1,0 +1,27 @@
+h1{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+img{
+  width: 100%;
+  hight: 100%;
+ padding: 10px 10px 10px 10px;
+}
+a {
+  text-decoration: none;
+  text-align: center;
+  background-color: #ffecd5;
+  color: #000000;
+  border: 2px solid #919191;
+  padding: 10px 24px;
+  border-radius: 24px;
+ margin: 5px 0px 0px 100px;
+  cursor: pointer;
+  width: 50%;
+  display: block;
+}
+Body{
+  background-color: #caf0fe;
+}
