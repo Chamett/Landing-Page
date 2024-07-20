@@ -7,9 +7,9 @@ p{
   font-family: "sans-serif","arial", "arial black";
  
 }
-img{
+.imagen{
   display: block;
-  margin: 0 100px 0 100px;
+  margin: auto;
   width: 50%;
   height: 50%;
   border: 5px solid #000000;
@@ -18,19 +18,50 @@ img{
   
  }
 a {
+  
   font-family: "edu au vic wa nt hand", "sans-serif","arial", "arial black";
   text-decoration: none;
   text-align: center;
   background-color: #ffc677;
   color: #000000;
   border: 2px solid #000000;
-  padding: 0px 50px 0 50px;
+  padding: 0px 25px 0 25px;
   border-radius: 24px;
- margin: 5px 50px 0px 50px;
+ margin: auto;
   cursor: pointer;
   width: 50%;
   display: block;
+  margin-bottom: 5px;
 }
 Body{
   background-color: #caf0fe;
+}
+h6{
+  text-align: center;
+  font-family: "edu au vic wa nt hand", "sans-serif","arial", "arial black";
+}
+.Insta{
+  
+  width: 3%;
+  height: 3%;
+  padding-bottom: 1%;
+  margin: auto;
+  margin-bottom: 5px;
+ }
+h6{
+  padding-buttom: 6%;
+}
+.facebook{
+  width: 5%;
+  height: 5%;
+  
+  margin: auto;
+  margin-bottom: 5px;
+}
+.chamett{
+  text-align: center;
+  font-family: "edu au vic wa nt hand", "sans-serif","arial", "arial black";
+  font-size: 10px;
+
+  
 }
